@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string-array name="fortunemessage">
+        <item>Try Harder and you will be success</item>
+        <item>Good Luck</item>
+        <item>Go for it!</item>
+        <item>Dont Give up!</item>
+        <item>Love is on your way</item>
+        <item>Tomorrow will be a good day</item>
+        <item>Forget it and move on</item>
+        <item>You are doing good!</item>
+        </string-array>
+
+</resources>
